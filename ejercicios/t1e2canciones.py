@@ -7,21 +7,20 @@ duracion_cancion = "¿Cuál es la duración de la canción en segundos?"
 videoclip = "¿Tiene videoclip?"
 
 print (titulo_cancion)
+cancion_fav = input()
 print (titulo_artista)
+artista_fav = input()
 print (titulo_album)
+album_fav = input()
 print (año_lanzamiento)
+año_fav = input()
 print (duracion_cancion)
+duracion_fav = input()
 print (videoclip)
+video_fav = input()
 print ()
 
 #Muestra la información introducida
-cancion_fav = "Alkaline"
-artista_fav = "Sleep Token"
-album_fav = "This Place Will Become Your Tomb"
-año_fav = 2021
-duracion_fav = 200,4
-video_fav = True
-
 print (cancion_fav) 
 print (artista_fav)
 print (album_fav)
@@ -39,21 +38,20 @@ segundos_cancion = "¿Cuál es la duración de la canción en segundos?"
 video = "¿Tiene videoclip?"
 
 print (nombre_cancion)
+cancion_hate = input()
 print (nombre_artista)
+artista_hate = input()
 print (nombre_album)
+album_hate = input()
 print (fecha_lanzamiento)
+año_hate = input()
 print (segundos_cancion)
+duracion_hate = input()
 print (video)
+video_hate = input()
 print ()
 
 #Muestra la información introducida
-cancion_hate = "Blank Space"
-artista_hate = "Taylor Swift"
-album_hate = 1989
-año_hate = 2014
-duracion_hate =210,6
-video_hate = True
-
 print (cancion_hate)
 print (artista_hate)
 print (album_hate)
