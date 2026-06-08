@@ -6,11 +6,11 @@ frase = input ()
 print ()
 
 #Muestra:
-    #La longitud de la frase
 longitud = len(frase)
 mayusculas = frase.upper()
 minusculas = frase.lower()
 
+    #La longitud de la frase
 print ("Longitud de la frase")
 print (longitud)
 print ()
@@ -19,6 +19,7 @@ print ()
 print ("Frase en mayúsculas")
 print (mayusculas)
 print ()
+
     #La frase en minúsculas
 print ("Frase en minúsculas")
 print (minusculas)
