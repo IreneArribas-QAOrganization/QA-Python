@@ -26,7 +26,7 @@ print ()
 
 #Añade el 21% de IVA al total
 iva = float(total * 0.21)
-print ("IVA:", iva, "€")
+print ("IVA:"), print (iva, "€")
 print ()
 
 #Muestra el precio final
