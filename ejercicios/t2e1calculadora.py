@@ -15,12 +15,15 @@ print ()
     #Suma 
 print ("Suma:"), print (numero1 + numero2)
 print ()
+
     #Resta
 print ("Resta:"), print (numero1 - numero2)
 print ()
+
     #Multiplicación
 print ("Multiplicación:"), print (numero1 * numero2)
 print ()
+
     #División
 print ("División:"), print (numero1 / numero2)
 print ()
