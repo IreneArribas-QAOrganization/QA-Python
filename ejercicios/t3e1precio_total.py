@@ -44,7 +44,7 @@ print ()
 print ("Cantidad:", cantidad)
 print ("Nombre:", nombre)
 print ("Descuento", float(dto), "(25%)")
-print ("Precio total con descuento",int(ptotal), "€")
+print ("Precio total con descuento",float(ptotal), "€")
 print ()
 
 #Crea una función que reciba una cantidad y le agrege un 21% de IVA
