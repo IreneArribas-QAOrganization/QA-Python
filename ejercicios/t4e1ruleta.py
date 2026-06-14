@@ -4,7 +4,6 @@ pregunta = "Elije un color (rojo, verde, azul, amarrillo o morado)"
 print (pregunta) 
 respuesta = input()
 respuesta = respuesta.lower()
-print (respuesta)
 print ()
 
 #Crea una función que reciba un color y devuelva un mensaje según el color elegido:
